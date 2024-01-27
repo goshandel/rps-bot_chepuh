@@ -1,1 +1,1 @@
-# rps-bot_chepuh
+# rps-bot
